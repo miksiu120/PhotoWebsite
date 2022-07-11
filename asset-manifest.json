@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PhotoWebsite/static/css/main.5664f1cb.css",
+    "main.js": "/PhotoWebsite/static/js/main.033e0fbd.js",
+    "static/media/man.jpg": "/PhotoWebsite/static/media/man.24d94246199af8011830.jpg",
+    "static/media/bgHeader5.jpg": "/PhotoWebsite/static/media/bgHeader5.5237269dc8faa1c22673.jpg",
+    "static/media/background2.webp": "/PhotoWebsite/static/media/background2.d07886e6b51afcaabb71.webp",
+    "index.html": "/PhotoWebsite/index.html",
+    "main.5664f1cb.css.map": "/PhotoWebsite/static/css/main.5664f1cb.css.map",
+    "main.033e0fbd.js.map": "/PhotoWebsite/static/js/main.033e0fbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5664f1cb.css",
+    "static/js/main.033e0fbd.js"
+  ]
+}
